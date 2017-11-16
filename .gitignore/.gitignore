@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>New Notation for n+(n-1)+...+2+1</title>
+         <style>
+         h1 {
+             color:red;
+             font-size: 40px;
+         }
+          h2 {
+              color:green;
+              font-family:sans-serif;
+          }   
+          .end: {
+              font-size: 35px;
+          }
+         </style>
+
+    </head>
+    <body>
+    <h1>Proposing Notation For Adding Whole Numbers From 1 to n</h1>
+    <h2>Backstory</h2>
+    <p>Hi! The other day I was doing a math problem and had to add the whole numbers from 1 through 4. Tired of writing "1+2+3+4" I decided to come up with some type of notation. At first I did some research and found no notation for expressing this other than using the greek letter epsilon, being honest, I'd rather write "1+2+3+4" than using epsilon. Naturally I decided to come up with a notation. While thinking about what notation I should use I remembered factorial (!). The symbol for factorial is an exclamation mark</p>
+
+    <h2>What do I propose?</h2>
+<p> Thinking about factorial and how it was an exclamation mark I decided my symbol was going to be a question mark. Now I needed a name. Well, it is a <strong>sum</strong> of consecutive numbers, so I decided to call it <strong><em>summorial</em></strong>.<br>So this is what I propose:<br>n?(read as n summorial) is defined as: <strong>n+(n-1)+(n-2)+...+2+1</strong> for any whole number. </p><br><br><h2>Going Further</h2>
+<p>I continued my problem, using this new notation: <strong>summorial(?).</strong>However I encountered a problem, now I had to add all the summorials from 4 to 1. And since I was still lazy and I didn't want to write "4?+3?+2?+1?" I decided to invent another notation. I won't go in depth with this one since my main idea was summorial, but this, the sum of consecutive summorials is called <strong><em>sum-summarial</em></strong>. It is expressed as ¿.</p>
+
+<h2>What were my ideas?</h2>
+<p>Before I keep talking on and on I am going to summarize briefly summarize all prior information:<br>What did I do?<br><ul>
+    <li>Invent "summorial"</li>
+    <li>Invent "sum-summarial"</li>
+    <li>Finish my math problem</li>
+</ul>
+    What is summorial?<br>
+    <strong>n summorial is defined as n+(n-1)+...+2+1.</strong><br>
+    What is the symbol for summorial?<br>
+    <strong>"?"</strong><br>What is sum-summarial?<br>
+        <strong>n sum-summarial is defined as n?+(n-1)?+...+2?+1?</strong><br>
+        What is the symbol for sum-summarial?<br>
+        <strong>"¿"</strong><br><br><br>
+    </p>
+    <p class="end">Thank you for reading this article, hope you enjoy it and consider using this notation! Bye!</p>
+    </body>
+</html>
